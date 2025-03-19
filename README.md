@@ -1,7 +1,3 @@
-Hier ist eine Beispiel-README-Datei in Markdown, die alle relevanten Informationen enthält:
-
----
-
 # Base64 Konverter Skript
 
 Dieses Skript ermöglicht es, Texte und den Inhalt von Dateien in Base64 zu kodieren bzw. Base64-codierten Text wieder zu dekodieren. Es bietet ein interaktives Menü, mit dem Du entweder einen direkten String eingeben oder eine Datei auswählen kannst, deren Inhalt umgewandelt werden soll.
